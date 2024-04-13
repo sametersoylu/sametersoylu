@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel, C++**
 
-- 👨‍💻 All of my projects are available at [gitblog.theany.com.tr](gitblog.theany.com.tr)
+- 👨‍💻 All of my projects are available at [gitblog.theany.com.tr](https://gitblog.theany.com.tr)
 
 - 💬 Ask me about **C++**
 

@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdüssamet.</h1>
-<h3 align="center">I'm a Software Engineering student on European University of Lefke.</h3>
+<h1 align="center">Hi 👋, I'm Samet.</h1>
+<h3 align="center">I'm a backend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametersoylu&label=Profile%20views&color=0e75b6&style=flat" alt="sametersoylu" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sametersoylu" alt="sametersoylu" /></a> </p> -->
-
-- 🔭 I’m currently working on [Gorgon Game Engine's some features.](repo.darkgaze.org/Gorgon)
-
-- 🌱 I’m currently learning **Laravel, C++**
 
 - 👨‍💻 All of my projects are available at [gitblog.theany.com.tr](https://gitblog.theany.com.tr)
 
